@@ -1,0 +1,16 @@
+C:\Users\29395020\Desktop\Добрынин\Добрынин\bin\Debug\netcoreapp3.1\Добрынин.exe
+C:\Users\29395020\Desktop\Добрынин\Добрынин\bin\Debug\netcoreapp3.1\Добрынин.deps.json
+C:\Users\29395020\Desktop\Добрынин\Добрынин\bin\Debug\netcoreapp3.1\Добрынин.runtimeconfig.json
+C:\Users\29395020\Desktop\Добрынин\Добрынин\bin\Debug\netcoreapp3.1\Добрынин.runtimeconfig.dev.json
+C:\Users\29395020\Desktop\Добрынин\Добрынин\bin\Debug\netcoreapp3.1\Добрынин.dll
+C:\Users\29395020\Desktop\Добрынин\Добрынин\bin\Debug\netcoreapp3.1\Добрынин.pdb
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.csproj.AssemblyReference.cache
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.Form1.resources
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.csproj.GenerateResource.cache
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.AssemblyInfoInputs.cache
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.AssemblyInfo.cs
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.csproj.CoreCompileInputs.cache
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.dll
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.pdb
+C:\Users\29395020\Desktop\Добрынин\Добрынин\obj\Debug\netcoreapp3.1\Добрынин.genruntimeconfig.cache
